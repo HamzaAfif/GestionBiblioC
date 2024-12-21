@@ -49,8 +49,7 @@ The importance of modular and structured programming.
 Using file handling to implement persistent data storage.
 Understanding and comparing sorting algorithm efficiencies.
 Debugging techniques for ensuring program reliability.
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+
 
 Author
 Hamza Afif
