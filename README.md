@@ -52,7 +52,7 @@ Debugging techniques for ensuring program reliability.
 
 ## Documentation
 For a detailed report on the project, including design and implementation details, refer to the following file:
-- [Library Management System Report (PDF)](docs/Rapport.docx)
+- [Library Management System Report (DOCX)](doc/Rapport.docx)
 
 Author
 Hamza Afif
