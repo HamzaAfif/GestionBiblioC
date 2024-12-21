@@ -1,0 +1,1 @@
+1.  Titre: bigdata2023  ISBN: 1  Edition: 2023  Le nombre d'exmp: 2  Le nom de l'auteur: rochd  Le prenom de l'auteur: yassir 
